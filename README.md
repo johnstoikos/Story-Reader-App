@@ -1,4 +1,4 @@
-# 📖 Story Reader – Interactive Fairy Tale Application
+# Story Reader – Interactive Fairy Tale Application
 
 ## Overview
 **Story Reader** is a **Windows Forms application built in C# (.NET)** that allows users to browse, listen to, and manage a collection of fairy tales stored in a local SQLite database.  
