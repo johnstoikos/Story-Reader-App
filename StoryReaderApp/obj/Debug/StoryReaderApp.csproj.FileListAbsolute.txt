@@ -1,0 +1,15 @@
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\bin\Debug\StoryReaderApp.exe.config
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\bin\Debug\StoryReaderApp.exe
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\bin\Debug\StoryReaderApp.pdb
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\obj\Debug\StoryReaderApp.csproj.AssemblyReference.cache
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\obj\Debug\StoryReaderApp.Properties.Resources.resources
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\obj\Debug\StoryReaderApp.UI.MainForm.resources
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\obj\Debug\StoryReaderApp.csproj.GenerateResource.cache
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\obj\Debug\StoryReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\obj\Debug\StoryRea.75CA8F8E.Up2Date
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\obj\Debug\StoryReaderApp.exe
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\StoryReader\StoryReaderApp\StoryReaderApp\obj\Debug\StoryReaderApp.pdb
